@@ -13,4 +13,10 @@ namespace lab1
             //Komentar za Moniku: :* <3
         }
     }
+
+    class NewClass
+    { 
+        
+    
+    }
 }
