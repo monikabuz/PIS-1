@@ -12,14 +12,9 @@ namespace lab1
             Console.WriteLine("Hello World!");
             //Komentar za Moniku: :* <3
         }
+
     }
 
-    class NewClass
-    {
-        static void Metoda()
-        { 
-        
-        }
     
-    }
+
 }
