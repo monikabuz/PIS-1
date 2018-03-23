@@ -15,8 +15,11 @@ namespace lab1
     }
 
     class NewClass
-    { 
+    {
+        static void Metoda()
+        { 
         
+        }
     
     }
 }
